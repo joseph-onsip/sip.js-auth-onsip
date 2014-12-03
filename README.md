@@ -2,7 +2,7 @@ sip.js-auth-onsip
 =================
 
 ```shell
-npm install onsip/SIP.js#c9dac4b
+npm install onsip/SIP.js#4988b81
 npm install joseph-onsip/sip.js-auth-onsip
 ```
 
